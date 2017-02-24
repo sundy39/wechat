@@ -1,0 +1,13 @@
+
+*.suo
+*.user
+
+/.vs
+/packages
+
+/WeChat.Web/access_token
+/WeChat.Web/menu.json
+
+/WeChat.Web/bin/
+/WeChat.Web/obj/
+/WeChat.Web/log/
